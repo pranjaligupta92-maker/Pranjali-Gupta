@@ -1,0 +1,6 @@
+{
+  "name": "HM Hire - Recruitment Consultancy (India)",
+  "description": "Professional recruitment consultancy portal for luxury hospitality, hotels, F&B, engineering, and corporate talent across India and international markets, compliant with Indian regulations and DPDP Act, 2023.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
